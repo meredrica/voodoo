@@ -8,12 +8,5 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/voodoo_text"
         android:layout_centerHorizontal="true"
-        android:text="this is a fragment that sits in the library" />
-
-    <TextView
-        android:id="@+id/voodoo_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true" />
-
+        android:text="this is a fragment that sits in the app, omg" />
 </RelativeLayout>
